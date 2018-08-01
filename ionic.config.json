@@ -1,0 +1,7 @@
+{
+  "name": "Spendless",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
